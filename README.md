@@ -5,9 +5,9 @@ This project is focused on implementing vector similarity search using FAISS and
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Key Features Used](#key-features)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](#technologies-used)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
